@@ -1,0 +1,71 @@
+.tournament-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+  
+}
+
+.ro16 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.quarter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.semi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.final {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 200px;
+}
+
+.match {
+  display: flex;
+  flex-direction: row;
+  border: 3px solid #100e0e;
+  padding: 10px;
+  margin: 10px;
+}
+
+.score {
+
+  margin-left: 15px;
+}
+
+.winner {
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid gold;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.cup {
+  width: 50px;
+  height: auto;
+  
+}
+
+.ro16 a {
+  text-decoration: none;
+  color: black;
+}
+

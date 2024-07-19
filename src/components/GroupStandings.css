@@ -1,0 +1,13 @@
+.group-table {
+    font-size: large;
+    padding: 40px;
+  }
+
+.criteria {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+  

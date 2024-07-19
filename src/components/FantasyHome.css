@@ -1,0 +1,92 @@
+.fantasy-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .budget {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .players-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+  }
+  
+  .players-section > div {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .positions {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .player-card {
+    
+    background-color: #ffa500;
+    border: none;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    
+  }
+  
+  .player-card:hover {
+    background-color: #ff8c00;
+  }
+  
+  .fantasy-team {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .fantasy-team input,
+.fantasy-team select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.confirmation-container {
+  padding: 20px;
+}
+
+.confirmation-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.confirmation-container li {
+  margin-bottom: 10px;
+}
+
+.remove-player-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-left: 10px;
+  border-radius: 4px;
+}
+
+.error-message {
+  margin-top: 20px;
+  color: #dc3545;
+  font-weight: bold;
+}
+  

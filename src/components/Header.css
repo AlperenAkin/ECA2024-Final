@@ -1,0 +1,19 @@
+.header {
+    background-color: #183ce4;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 50px; 
+    margin-right: 15px; 
+    margin-left: 20px;
+  }
+  
+  .header-text {
+    display: inline;
+    font-size: 2.0rem; 
+  }
+  
