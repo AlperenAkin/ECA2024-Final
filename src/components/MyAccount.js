@@ -79,7 +79,7 @@ const MyAccount = () => {
                 </ul>
                 <br />
                 <p>Total Cost: ${(calculateTotalCost(team.selectedPlayers) / 1000000).toLocaleString()}m</p>
-                <p>Number of Players: {team.selectedPlayers.length}</p>
+                <p># of Players: {team.selectedPlayers.length}</p>
                 <button class="btn btn-warning m-2 " onClick={() => handleDeleteTeam(team.id)}>Delete Team</button>
                 <button class="btn btn-warning m-2" onClick={() => handleUpdateTeam(team)}>Update Team</button>
               </li>

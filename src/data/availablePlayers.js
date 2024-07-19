@@ -9,7 +9,7 @@ const availablePlayers = [
   { name: 'Lamine Yamal', position: 'RM', nationality: 'Spain 🇪🇸', cost: 60000000 },
   { name: 'Phil Foden', position: 'LM', nationality: 'England 🏴󠁧󠁢󠁥󠁮󠁧󠁿', cost: 60000000 },
   { name: 'Kvichi Kvaratshkelia', position: 'LM', nationality: 'Georgia 🇬🇪', cost: 40000000 },
-  { name: 'Dominik Szoboszlai', position: 'CM', nationality: 'France 🇫🇷', cost: 40000000 },
+  { name: 'Dominik Szoboszlai', position: 'CM', nationality: 'Hungary 🇭🇺', cost: 40000000 },
   { name: 'Antoine Griezmann', position: 'ST', nationality: 'France 🇫🇷', cost: 40000000 },
   { name: 'Dani Carvajal', position: 'RB', nationality: 'Spain 🇪🇸', cost: 30000000 },
   { name: 'Dayot Upamecano', position: 'CB', nationality: 'France 🇫🇷', cost: 60000000 },
