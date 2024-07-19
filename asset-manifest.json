@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ECA2024-Final/static/css/main.a8c9abdb.css",
-    "main.js": "/ECA2024-Final/static/js/main.5b56c7f9.js",
+    "main.js": "/ECA2024-Final/static/js/main.72c65f65.js",
     "static/media/winnerscup.webp": "/ECA2024-Final/static/media/winnerscup.fd5a1e82959eb49f03c5.webp",
     "static/media/bannereuros.webp": "/ECA2024-Final/static/media/bannereuros.493ea487509c7d10323b.webp",
     "static/media/eurocup.webp": "/ECA2024-Final/static/media/eurocup.9a8455b42acfe9ece3ca.webp",
     "index.html": "/ECA2024-Final/index.html",
     "main.a8c9abdb.css.map": "/ECA2024-Final/static/css/main.a8c9abdb.css.map",
-    "main.5b56c7f9.js.map": "/ECA2024-Final/static/js/main.5b56c7f9.js.map"
+    "main.72c65f65.js.map": "/ECA2024-Final/static/js/main.72c65f65.js.map"
   },
   "entrypoints": [
     "static/css/main.a8c9abdb.css",
-    "static/js/main.5b56c7f9.js"
+    "static/js/main.72c65f65.js"
   ]
 }
