@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/ECA2024-Final/static/css/main.915aec2a.css",
-    "main.js": "/ECA2024-Final/static/js/main.5190440a.js",
-    "static/js/453.364fc3d0.chunk.js": "/ECA2024-Final/static/js/453.364fc3d0.chunk.js",
+    "main.css": "/ECA2024-Final/static/css/main.a8c9abdb.css",
+    "main.js": "/ECA2024-Final/static/js/main.932deb79.js",
+    "static/media/winnerscup.webp": "/ECA2024-Final/static/media/winnerscup.fd5a1e82959eb49f03c5.webp",
     "static/media/bannereuros.webp": "/ECA2024-Final/static/media/bannereuros.493ea487509c7d10323b.webp",
     "static/media/eurocup.webp": "/ECA2024-Final/static/media/eurocup.9a8455b42acfe9ece3ca.webp",
     "index.html": "/ECA2024-Final/index.html",
-    "main.915aec2a.css.map": "/ECA2024-Final/static/css/main.915aec2a.css.map",
-    "main.5190440a.js.map": "/ECA2024-Final/static/js/main.5190440a.js.map",
-    "453.364fc3d0.chunk.js.map": "/ECA2024-Final/static/js/453.364fc3d0.chunk.js.map"
+    "main.a8c9abdb.css.map": "/ECA2024-Final/static/css/main.a8c9abdb.css.map",
+    "main.932deb79.js.map": "/ECA2024-Final/static/js/main.932deb79.js.map"
   },
   "entrypoints": [
-    "static/css/main.915aec2a.css",
-    "static/js/main.5190440a.js"
+    "static/css/main.a8c9abdb.css",
+    "static/js/main.932deb79.js"
   ]
 }
