@@ -33,6 +33,7 @@ function MainContent() {
       <div className="d-flex flex-row-reverse align-items-baseline">
         
         <button 
+            aria-label='button to toggle language'
             id='language-toggle-button'
             className="btn btn-warning mx-4 px-4"
             
@@ -42,19 +43,21 @@ function MainContent() {
       </div>
       <div className= "container text-center">
         <h2>ECA2024</h2>
-        <p>{heroText}</p>
+        <p aria-label='text to summarize website and encourage user to build their squad'>{heroText}</p>
         <button 
+          aria-label='button to navigate to fantasy homepage'
           className="btn btn-primary mb-4" 
           onClick={() => navigate('/fantasy-home')}
         >
           {heroButtonText}
         </button>
         <img src={placeholderImage} alt="Euro 2024" className="img-fluid mb-4" />
-        <h3>{descriptionText}</h3>
-        <p>{descriptionTextt}</p>
+        <h3 >{descriptionText}</h3>
+        <p aria-label='text to describe purpose of the site'>{descriptionTextt}</p>
         <div className="row">
           <div className="col-md-4">
             <button 
+              aria-label='button to navigate to group standings page'
               className="btn btn-dark btn-block mb-2" 
               onClick={() => navigate('/group-standings')}
             >
@@ -63,6 +66,7 @@ function MainContent() {
           </div>
           <div className="col-md-4">
             <button 
+              aria-label='button to navigate to tournament bracket page'
               className="btn btn-dark btn-block mb-2" 
               onClick={() => navigate('/tournament-bracket')}
             >
@@ -71,6 +75,7 @@ function MainContent() {
           </div>
           <div className="col-md-4">
             <button 
+              aria-label='button to navigate to match scores page'
               className="btn btn-dark btn-block mb-2" 
               onClick={() => navigate('/match-scores')}
             >

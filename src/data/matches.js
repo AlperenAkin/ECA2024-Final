@@ -35,15 +35,7 @@ const matches = [
       score: '2 - 1',
       highlights: 'https://www.youtube.com/embed/PKunEIyfhjw'
     },
-    {
-      date: 'GROUP STAGE ROUND 1: June 14',
-      teams: [
-        { name: 'Germany', flag: '🇩🇪' },
-        { name: 'Scotland', flag: '🏴󠁧󠁢󠁳󠁣󠁴󠁿' },
-      ],
-      score: '5 - 1',
-      highlights: 'https://www.youtube.com/embed/-VT9i_v4_fA'
-    },
+
     {
       date: 'GROUP STAGE ROUND 1: June 16',
       teams: [

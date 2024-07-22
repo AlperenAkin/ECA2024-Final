@@ -158,12 +158,12 @@ const MatchScores = () => {
       <h1 id="top-of-matches">Match Scores/Highlights</h1>
       <div className="tournament-round-container">
         <a href="#0" class="btn btn-warning mb-4">GROUP STAGE ROUND 1</a>
-        <a href="#13" class="btn btn-warning mb-4">GROUP STAGE ROUND 2</a>
-        <a href="#27" class="btn btn-warning mb-4">GROUP STAGE ROUND 3</a>
-        <a href="#39" class="btn btn-warning mb-4">ROUND OF 16</a>
-        <a href="#47" class="btn btn-warning mb-4">QUARTER FINALS</a>
-        <a href="#51" class="btn btn-warning mb-4">SEMI FINALS</a>
-        <a href="#53" class="btn btn-warning mb-4">FINAL</a>
+        <a href="#12" class="btn btn-warning mb-4">GROUP STAGE ROUND 2</a>
+        <a href="#26" class="btn btn-warning mb-4">GROUP STAGE ROUND 3</a>
+        <a href="#38" class="btn btn-warning mb-4">ROUND OF 16</a>
+        <a href="#46" class="btn btn-warning mb-4">QUARTER FINALS</a>
+        <a href="#50" class="btn btn-warning mb-4">SEMI FINALS</a>
+        <a href="#52" class="btn btn-warning mb-4">FINAL</a>
       </div>
       {renderMatches()}
     </div>
